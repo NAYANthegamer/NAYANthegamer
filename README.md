@@ -4,7 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Developer | Game Designer | PAWN Scripter | Turning Dreams into Code
 -----------------------------------------------------------------------------
 
-Hello! I'm Nayan 👋 Welcome to my GitHub profile! I'm an aspiring developer and game designer with a passion for creating innovative and engaging experiences through technology. Whether it's scripting for roleplay servers, designing intuitive interfaces, or coding fun and interactive systems, I thrive on transforming ideas into reality. 💻 My Journey: I specialize in PAWN development and have a growing proficiency in HTML and Android app development. My current focus is on building a strong foundation in game development and exploring advanced technologies to enhance my skill set. 🎯 My Goals: I aspire to work for a multi-billion-dollar company in New York, contributing to cutting-edge projects while continually expanding my knowledge. Every day, I push myself closer to this dream through consistent effort, learning, and coding. 🌟 Recent Milestones: - Developed a whitelist system for Infinity Roleplay, a San Andreas Multiplayer (SA:MP) roleplay server. - Worked on structuring ranks for different factions, gangs, and admins on the server. - Creating a fun and kawaii-themed Discord bot named Mili for interactive communities. 🌐 What Drives Me: I dream big, and I work hard every day to turn those dreams into reality. Development and game design are more than skills for me—they're my passion, my future, and my ticket to creating experiences that bring people together.
+Hello! I'm Nayan 👋 Welcome to my GitHub profile! I'm an aspiring developer and game designer with a passion for creating innovative and engaging experiences through technology. Whether it's scripting for roleplay servers, designing intuitive interfaces, or coding fun and interactive systems, I thrive on transforming ideas into reality. 
+
+💻 My Journey: I specialize in PAWN development and have a growing proficiency in HTML and Android app development. My current focus is on building a strong foundation in game development and exploring advanced technologies to enhance my skill set.
+
+🎯 My Goals: I aspire to work for a multi-billion-dollar company in New York, contributing to cutting-edge projects while continually expanding my knowledge. Every day, I push myself closer to this dream through consistent effort, learning, and coding.
+
+🌟 Recent Milestones: - Developed a whitelist system for Infinity Roleplay, a San Andreas Multiplayer (SA:MP) roleplay server. - Worked on structuring ranks for different factions, gangs, and admins on the server. - Creating a fun and kawaii-themed Discord bot named Mili for interactive communities.
+
+🌐 What Drives Me: I dream big, and I work hard every day to turn those dreams into reality. Development and game design are more than skills for me—they're my passion, my future, and my ticket to creating experiences that bring people together.
 
 * 🌍  I'm based in Bhopal, Madhya Pradesh, India
 * 🖥️  See my portfolio at [Latest Work.](http://martin.linkpc.net)
