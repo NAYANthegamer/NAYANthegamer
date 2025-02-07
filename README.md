@@ -17,7 +17,7 @@ Hello! I'm Nayan 👋 Welcome to my GitHub profile! I'm an aspiring developer an
 * 🌍  I'm based in Bhopal, Madhya Pradesh, India
 * 🖥️  See my portfolio at [Latest Work.](http://martin.linkpc.net)
 * ✉️  You can contact me at [mgaming96@yahoo.com](mailto:mgaming96@yahoo.com)
-* 🚀  I'm currently working on [A Website](http://martin.linkpc.net)
+* 🚀  I'm currently working on [A Fetch Tool](http://martin.linkpc.net)
 * 🧠  I'm learning HTML, Python, C++.
 * 🤝  I'm open to collaborating on Web development, PAWN scripting, Building Discord bots.
 * ⚡  I'm a gamer and anime enthusiast.
